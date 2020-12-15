@@ -1,12 +1,12 @@
 ## I'm a programmer, 3D Modeller from Ukraine 
 
-[![Krilifon's github stats](https://github-readme-stats.vercel.app/api?username=hampta&theme=nightowl)](https://github.com/hampta)
+[![hampta github stats](https://github-readme-stats.vercel.app/api?username=hampta&theme=nightowl)](https://github.com/hampta)
 
 #### Languages
 ![Python](https://img.shields.io/badge/Python-40304f?style=for-the-badge&logo=python&logoColor=ffde00)
 
 ### 3D Software
-![Blender](https://raw.githubusercontent.com/qubodup/New-Blender-Icons/master/blendericon28black.svg)
+![Blender](https://github.com/qubodup/New-Blender-Icons/blob/master/blendericon28black.svg)
 
 #### Contacts
 [![VKontakte](https://img.shields.io/badge/VKontakte-40304f?style=for-the-badge&logo=vk)](https://vk.com/hampta)
