@@ -1,16 +1,14 @@
-### Hi there 👋
+## I'm a programmer, 3D Modeller from Ukraine 
 
-<!--
-**hampta/hampta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Krilifon's github stats](https://github-readme-stats.vercel.app/api?username=hampta&theme=nightowl)](https://github.com/hampta)
 
-Here are some ideas to get you started:
+#### Languages
+![Python](https://img.shields.io/badge/Python-40304f?style=for-the-badge&logo=python&logoColor=ffde00)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 3D Software
+![Blender](https://raw.githubusercontent.com/qubodup/New-Blender-Icons/master/blendericon28black.svg)
+
+#### Contacts
+[![VKontakte](https://img.shields.io/badge/VKontakte-40304f?style=for-the-badge&logo=vk)](https://vk.com/hampta)
+[![Youtube](https://img.shields.io/badge/Youtube-30384f?style=for-the-badge&logo=youtube&logoColor=fb4747)](https://www.youtube.com/channel/UCXV8fJ0VaUrcdC1XV-Sv7qw)
+[![Telegram](https://img.shields.io/badge/Telegram-304f46?style=for-the-badge&logo=telegram)](https://t.me/hampta)
