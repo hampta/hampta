@@ -6,7 +6,7 @@
 ![Python](https://img.shields.io/badge/Python-40304f?style=for-the-badge&logo=python&logoColor=ffde00)
 
 ### 3D Software
-![Blender](https://img.shields.io/badge/blender-2.79-orange?logo=blender&style=for-the-badge)
+![Blender](https://img.shields.io/badge/blender-2.79-3b001c?logo=blender&style=for-the-badge)
 
 #### Contacts
 [![VKontakte](https://img.shields.io/badge/VKontakte-40304f?style=for-the-badge&logo=vk)](https://vk.com/hampta)
