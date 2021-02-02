@@ -8,7 +8,7 @@
 
 
 ### 💥 3D Software 
-![Blender](https://img.shields.io/badge/blender-2.79-3b001c?logo=blender&style=for-the-badge)
+![Blender](https://img.shields.io/badge/blender-2.8-3b001c?logo=blender&style=for-the-badge)
 
 
 ### 📞 Contacts 
