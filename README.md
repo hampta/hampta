@@ -14,3 +14,6 @@
 [![Discord](https://img.shields.io/badge/Discord-304f46?style=for-the-badge&logo=discord)](https://discord.com/users/733829777127112705)
 
 [![hampta github stats](https://github-readme-stats.vercel.app/api?username=hampta&theme=nightowl)](https://github.com/hampta)
+
+### 🖥️ PC specs
+[![PC Specs](https://valid.x86.fr/cache/banner/3hxy9q-5.png)](https://valid.x86.fr/3hxy9q)
