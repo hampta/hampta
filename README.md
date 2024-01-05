@@ -16,4 +16,6 @@
 [![hampta github stats](https://github-readme-stats.vercel.app/api?username=hampta&theme=nightowl)](https://github.com/hampta)
 
 ### 🖥️ PC specs
-[![PC Specs](https://valid.x86.fr/cache/banner/3hxy9q-5.png)](https://valid.x86.fr/3hxy9q)
+<a href=https://valid.x86.fr/3hxy9q>
+  <img src=https://valid.x86.fr/cache/banner/3hxy9q-4.png alt="PC Specs" width="70%">
+<a>
