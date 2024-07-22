@@ -8,11 +8,6 @@
 ![Postgres](https://img.shields.io/badge/PostgreSQL-555555?logo=Postgresql&style=for-the-badge)
 ![Wireguard](https://img.shields.io/badge/Wireguard-555555?logo=Wireguard&style=for-the-badge)
 
-### 📞 Contacts
-[![Youtube](https://img.shields.io/badge/Youtube-30384f?style=for-the-badge&logo=youtube&logoColor=fb4747)](https://www.youtube.com/channel/UCXV8fJ0VaUrcdC1XV-Sv7qw)
-[![Telegram](https://img.shields.io/badge/Telegram-304f46?style=for-the-badge&logo=telegram)](https://t.me/hampta)
-[![Discord](https://img.shields.io/badge/Discord-304f46?style=for-the-badge&logo=discord)](https://discord.com/users/733829777127112705)
-
 [![hampta github stats](https://github-readme-stats.vercel.app/api?username=hampta&theme=nightowl)](https://github.com/hampta)
 
 ### 🖥️ PC specs
